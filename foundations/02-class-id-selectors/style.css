@@ -1,0 +1,19 @@
+p {
+  background-color: rgb(255, 182, 193);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.d2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.p3 {
+  font-size: 24px;
+}
+
+.d4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
