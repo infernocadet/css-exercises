@@ -32,3 +32,7 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+.right {
+  outline: 2px solid red;
+}
